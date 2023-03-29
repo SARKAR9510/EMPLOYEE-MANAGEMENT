@@ -1,0 +1,7 @@
+Employee ID:1122
+Employee Name     :sarkar
+Father's Name     :amit
+Employee Contact  :hu
+Email Information :bap
+Employee position :chu
+Employee Salary   :8888
